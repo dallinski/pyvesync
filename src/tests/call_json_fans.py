@@ -47,8 +47,8 @@ for model_type, model_dict in vesyncfan.air_features.items():
 
 FANS = HUMID_MODELS + AIR_MODELS
 FANS_NUM = len(FANS)
-# FANS = ['Core200S', 'Core300S', 'Core400S', 'Core600S', 'LV-PUR131S', 'LV600S',
-#         'Classic300S', 'Classic200S', 'Dual200S', 'LV600S']
+# FANS = ['Core200S', 'Core300S', 'Core400S', 'Core600S', 'LV-PUR131S', 'LV-RH131S-WM',
+#         'LV600S', 'Classic300S', 'Classic200S', 'Dual200S', 'LV600S']
 
 
 def INNER_RESULT(inner: dict) -> dict:

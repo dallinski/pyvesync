@@ -98,13 +98,14 @@ pip install pyvesync
 ### Levoit Air Purifiers
 
 1. LV-PUR131S
-2. Core 200S
-3. Core 300S
-4. Core 400S
-5. Core 600S
-6. Vital 100S
-7. Vital 200S
-8. Everest Air
+2. LV-RH131S-WM
+3. Core 200S
+4. Core 300S
+5. Core 400S
+6. Core 600S
+7. Vital 100S
+8. Vital 200S
+9. Everest Air
 
 ### Etekcity Bulbs
 
